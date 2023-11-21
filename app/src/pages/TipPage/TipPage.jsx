@@ -57,34 +57,33 @@ function TipPage() {
           <SwiperSlide>
             <div className="TipPageSliderContainer">
               <p className="TipPageSliderContent">
-                O Dr. Sirio <strong>não substitui um profissional</strong> ele
-                apenas presta um suporte imediato em um momento de necessidade,
-                onde o encontro presencial com um é dificultado, quando você
-                quer saber mais sobre o assunto ou quando você só precisa falar
-                com alguém!
+                O Prof. Victor <strong>não substitui um profissional </strong>
+                ele apenas presta um suporte imediato em um momento de
+                necessidade onde o encontro presencial com seu professor é
+                dificultado!
               </p>
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="TipPageSliderContainer">
               <p className="TipPageSliderContent">
-                Aproveite o auxílio do Dr. Sirio sempre que precisar, porém
-                recomendamos os psicólogos e psiquiatras do{" "}
+                Aproveite o auxílio do Prof. Victor sempre que precisar, porém,
+                recomendamos sempre os professores <strong>STEM</strong> do
                 <span style={{ color: "var(--main-green-color)" }}>
                   <strong>
                     <a
                       style={{
                         textDecoration: "none",
-                        color: "var(--main-green-color)",
+                        color: "var(--main-red-color)",
                       }}
                       href="https://alma.hsl.org.br"
                       target="blank"
                     >
-                      Alma Sírio-Libanês
+                      <span> Colégio Trivium</span>
                     </a>
                   </strong>
                 </span>
-                . Um hospital preparado para você e para o futuro!
+                . Uma escola preparada para você e para o futuro!{" "}
               </p>
             </div>
           </SwiperSlide>

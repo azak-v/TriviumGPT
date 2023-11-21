@@ -20,7 +20,7 @@ function Home() {
           />
           <h1 id="pageTitle">Conheça o Prof. Victor!</h1>
           <p id="pageContent">
-            O Prof. Victor é o professor virtual do Colégio Trivium{" "}
+            O Prof. Victor é o professor virtual do{" "}
             <span style={{ color: "var(--main-red-color)" }}>
               <strong>
                 <a
