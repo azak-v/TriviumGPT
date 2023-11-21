@@ -76,7 +76,7 @@ function TipPage() {
                         textDecoration: "none",
                         color: "var(--main-red-color)",
                       }}
-                      href="https://alma.hsl.org.br"
+                      href="http://colegiotrivium.com.br"
                       target="blank"
                     >
                       <span> Colégio Trivium</span>

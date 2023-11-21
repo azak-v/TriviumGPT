@@ -35,8 +35,7 @@ function Home() {
                 </a>
               </strong>
             </span>
-            , ele está aqui para te ajudar imediatamente em com suas duvidas
-            STEM!
+            , ele está aqui para te ajudar imediatamente com suas duvidas STEM!
           </p>
           <button
             onClick={() => setCurrentPage("tipPage")}
